@@ -14,7 +14,7 @@
 ![img.shields.io](https://img.shields.io/badge/来-orange)
 ![img.shields.io](https://img.shields.io/badge/的-orange)
 
-一个**开源**的 Julia 数学工具包，用于计算斐波那契数列及进行质数检测。（开源函数包震撼发布❗😱）
+一个**开源**的 Julia 数学工具包，用于计算斐波那契数列及进行质数检测。（**开源**函数包震撼发布❗😱）
 > **Note**
 > 纯粹为了学习github怎么用的项目，你看这个markdown语法真tm帅吧
 ---
@@ -73,7 +73,7 @@ $$
     <img src="https://julialang.org/assets/infra/logo.svg" width="200" alt="Julia Logo" />
 </div>
 
-### 感谢 [Logan Kipatric](https://x.com/OfficialLoganK) 的 GeM1Ni-3-pRo-PRivIEw 的代码协助
+### 感谢 [Logan Kilpatrick](https://x.com/OfficialLoganK) 的 GeM1Ni-3-pRo-PRivIEw 的代码协助
 <div align="center">
     <img src="assets/logan_sweat.webp" width="128" alt="logan_sweat" />
 </div>
