@@ -18,7 +18,7 @@ function calculate_fibonacci(n::Int64)
     return b
 end
 
-function is_prime(n::int)
+function is_prime(n::Int64)
 
     if n <= 1
         return false
